@@ -70,7 +70,7 @@ namespace HelloWorld
         }
         static void MathPart()
         {
-            Console.WriteLine("\n Write two numbers in two inputs and I will tell you which is bigger!");
+            Console.WriteLine("\n Write two numbers in two different inputs and I will tell you which is bigger!");
             int Number1 = Convert.ToInt32(Console.ReadLine());
             int Number2 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(Math.Max(Number1, Number2) + " Is the bigger number!");

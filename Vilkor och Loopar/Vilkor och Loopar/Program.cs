@@ -17,7 +17,7 @@ namespace Vilkor_och_Loopar
             {
                 Console.WriteLine("Are you happy?");
                 String happiness = Console.ReadLine();
-                if(happiness.ToLower() == "yes")
+                if(happiness.ToLower() == "no")
                 {
                     continue;
                 }

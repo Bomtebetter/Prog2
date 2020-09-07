@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.exe
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.deps.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.runtimeconfig.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.runtimeconfig.dev.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\bin\Debug\netcoreapp3.1\Vilkor och Loopar.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.csprojAssemblyReference.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.AssemblyInfo.cs
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\Vilkor och Loopar\Vilkor och Loopar\obj\Debug\netcoreapp3.1\Vilkor och Loopar.genruntimeconfig.cache

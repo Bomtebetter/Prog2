@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.exe
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.deps.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.runtimeconfig.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.runtimeconfig.dev.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\bin\Debug\netcoreapp3.1\PolymorfDemo.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.csprojAssemblyReference.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.AssemblyInfo.cs
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolymorfDemo\PolymorfDemo\obj\Debug\netcoreapp3.1\PolymorfDemo.genruntimeconfig.cache

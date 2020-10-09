@@ -10,15 +10,21 @@ namespace Labb1
         public string _name;
         public int _age;
 
-        public string Name
+        public string name
         {
             get { return _name; }
             set { _name = value; }
         }
-        public int Age
+        public int age
         {
             get { return _age; }
             set { _age = value;  }
+        }
+
+        public Person(string name, int age)
+        {
+            _name = name;
+            _age = age;
         }
     }
 }

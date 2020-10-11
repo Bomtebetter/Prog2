@@ -21,10 +21,14 @@ namespace Labb1
             set { _age = value;  }
         }
 
-        public Person(string name, int age)
+        List<Drinks> tab = new List<Drinks>();
+
+
+        public Person(string name, int age, List<Drinks> tab)
         {
             _name = name;
             _age = age;
+            tab = tab;
         }
     }
 }

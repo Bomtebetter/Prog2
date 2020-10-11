@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Labb1
 {
-    class NonAlcoholicDrinks
+    class NonAlcoholicDrinks : Drinks
     {
         public int _cost;
         public string _name;

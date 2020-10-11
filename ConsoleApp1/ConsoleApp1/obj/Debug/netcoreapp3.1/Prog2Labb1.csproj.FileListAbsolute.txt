@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.exe
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.deps.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.runtimeconfig.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.runtimeconfig.dev.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Prog2Labb1.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.csprojAssemblyReference.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.AssemblyInfo.cs
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Prog2Labb1.genruntimeconfig.cache

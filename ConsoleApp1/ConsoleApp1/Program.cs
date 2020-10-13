@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Service cockAndBallTorture = new Service();
             Customer customer = new Customer();
 
-            Console.WriteLine("Yoda says : Name what is young padawans name?");
+            Console.WriteLine("Yoda says : What is young padawans name?");
             customer.Name = Console.ReadLine();
 
             Console.WriteLine("Yoda says : Hello " + customer.Name + " see i do that you want cock and ball torture." );

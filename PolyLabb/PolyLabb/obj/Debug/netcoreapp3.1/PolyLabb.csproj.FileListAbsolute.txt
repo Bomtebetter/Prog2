@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.exe
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.deps.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.runtimeconfig.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.runtimeconfig.dev.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\bin\Debug\netcoreapp3.1\PolyLabb.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.csprojAssemblyReference.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.AssemblyInfo.cs
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\PolyLabb\PolyLabb\obj\Debug\netcoreapp3.1\PolyLabb.genruntimeconfig.cache

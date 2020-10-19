@@ -22,6 +22,7 @@ namespace PolyLabb
 
             int orderAmount;
             string answer = string.Empty;
+
             while (true)
             {
                 if (banana.StockStatus > 0 && apple.StockStatus > 0 && orange.StockStatus > 0)

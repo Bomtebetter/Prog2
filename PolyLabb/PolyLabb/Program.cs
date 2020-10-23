@@ -19,13 +19,13 @@ namespace PolyLabb
             Orange orange = new Orange();
             orange.Clefts = 13;
             orange.StockStatus = 12;
-
+            //
             int orderAmount;
             string answer = string.Empty;
 
             while (true)
             {
-                if (banana.StockStatus > 0 && apple.StockStatus > 0 && orange.StockStatus > 0)
+                if ((banana.StockStatus > 0) && (apple.StockStatus > 0) && (orange.StockStatus > 0))
                 {
                     while (true)
                     {

@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.exe
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.deps.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.runtimeconfig.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.runtimeconfig.dev.json
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\bin\Debug\netcoreapp3.1\ÖppethusLek.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.csprojAssemblyReference.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.AssemblyInfo.cs
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.dll
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.pdb
+C:\Users\petter.bratland\Documents\GitHub\Prog2\ÖppethusLek\ÖppethusLek\obj\Debug\netcoreapp3.1\ÖppethusLek.genruntimeconfig.cache

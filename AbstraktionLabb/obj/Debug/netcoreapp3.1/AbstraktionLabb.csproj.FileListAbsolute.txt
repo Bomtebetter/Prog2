@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.exe
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.deps.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.runtimeconfig.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.runtimeconfig.dev.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.dll
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\bin\Debug\netcoreapp3.1\AbstraktionLabb.pdb
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.csprojAssemblyReference.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.AssemblyInfo.cs
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.dll
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.pdb
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\AbstraktionLabb\obj\Debug\netcoreapp3.1\AbstraktionLabb.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.exe
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.deps.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.runtimeconfig.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.runtimeconfig.dev.json
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.dll
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\bin\Debug\netcoreapp3.1\Abstaktion.pdb
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.csprojAssemblyReference.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.AssemblyInfoInputs.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.AssemblyInfo.cs
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.csproj.CoreCompileInputs.cache
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.dll
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.pdb
+C:\Users\petter.bratland\source\repos\Bomtebetter\Prog2\Abstaktion\obj\Debug\netcoreapp3.1\Abstaktion.genruntimeconfig.cache
